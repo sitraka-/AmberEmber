@@ -116,6 +116,7 @@ h2:first-of-type {
 
 hr {
     border-color: var(--link-color);
+    border-style: solid;
 }
 
 p {
