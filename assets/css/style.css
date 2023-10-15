@@ -10,7 +10,7 @@
     --main-color: #1b1b1b;
     --bg: #c9b9ae;
     --link-color: #FF6600;
-    --secondary-color: #ae9a8c;
+    --secondary-color: #cec1b7;
     --secondary-text-color: #ffffffd4;
     --display-font:
         'IBM Plex Mono', monospace;
@@ -89,7 +89,7 @@ blockquote {
     font-size: 1.2rem;
 
     border-radius: 3px;
-    color: var(--secondary-text-color);
+    margin: 1rem 0;
 }
 
 img:first-child {
