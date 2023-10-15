@@ -143,9 +143,9 @@ Each week is punctuated by a Review/Presentation. They provide valuable feedback
 
 You can do more than what is suggested in the **A’s** and **B’s**, but no less, and should aim to meet at least those minimum expectations.
 
-| week# | Date | Stages | Objectives |
+| wk# | Date | Stages | Objectives |
 | --- | --- | --- | --------- |
-|I|18/10|Brief Launch| ***A. Initial scoping:*** Shaping your understanding <br><br>***A.1.*** Mapping information related to the subject → Anecdotal stories, Speculative Technologies, Research Papers, Cultural tropes, etc. (e.g. quadrant model diagramming, mind mapping, future cones, the stack, …) <br><br>***A.2.*** Investigate precedents and genealogy → Atlas as socio-political instrument, as metaphor, as recorded histories, etc. <br><br>***A.3.*** Shaping your approach/position → A synthesis of **A.1. + A.2.**|
+|I|18/10|Launch| ***A. Initial scoping:*** Shaping your understanding <br><br>***A.1.*** Mapping information related to the subject → Anecdotal stories, Speculative Technologies, Research Papers, Cultural tropes, etc. (e.g. quadrant model diagramming, mind mapping, future cones, the stack, …) <br><br>***A.2.*** Investigate precedents and genealogy → Atlas as socio-political instrument, as metaphor, as recorded histories, etc. <br><br>***A.3.*** Shaping your approach/position → A synthesis of **A.1. + A.2.**|
 |I|||***B. Initial ideation:*** Shaping your direction <br><br>***B.1.*** Framing/linking big ideas → Grouping/Clustering the research, highlighting overlaps and gaps <br><br>***B.2.*** Quick fire labelling/titling → Give Names, Isolate Themes, Build the Project’s Lexicon|
 |II|25/10|Research|***A. The Big Edit:*** Exploring themes<br><br>***A.1.*** Quick analysis → What’s interesting and why?<br><br>***A.2.*** Choose weird ideas with the most potential → New Aesthetics, Unusual narrative structures, Subversive in good and bad ways|
 |II|||***B. Quick Sketching:*** Re-Explore what you thought you knew <br><br>***B.1.*** Think with your “HANDS” → Start sketching, 3D modelling, Writing, Prompting ChatGPT, Singing, Dancing, Laughing the research. <br><br>***B.2.*** Reframing → Reevaluate/Re-Clustering the research, Give New Names/Labels <br><br>***B.3.*** Final Edit → Choose the 2 ideas with the most content |
