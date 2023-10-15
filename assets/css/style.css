@@ -136,6 +136,7 @@ blockquote:last-of-type {
     font-size: 1rem;
     background: none;
     border-left: dashed thin var(--link-color);
+    color: var(--main-color) !important;
 
 }
 
