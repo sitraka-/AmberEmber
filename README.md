@@ -144,7 +144,7 @@ Each week is punctuated by a Review/Presentation. They provide valuable feedback
 You can do more than what is suggested in the **A’s** and **B’s**, but no less, and should aim to meet at least those minimum expectations.
 
 | week# | Date | Stages | Objectives |
-| --- | --- | ---- | ----- |
+| --- | --- | --- | --------- |
 |I|Oct.18|Brief Launch| ***A. Initial scoping:*** Shaping your understanding <br><br>***A.1.*** Mapping information related to the subject → Anecdotal stories, Speculative Technologies, Research Papers, Cultural tropes, etc. (e.g. quadrant model diagramming, mind mapping, future cones, the stack, …) <br><br>***A.2.*** Investigate precedents and genealogy → Atlas as socio-political instrument, as metaphor, as recorded histories, etc. <br><br>***A.3.*** Shaping your approach/position → A synthesis of **A.1. + A.2.**|
 |I|||***B. Initial ideation:*** Shaping your direction <br><br>***B.1.*** Framing/linking big ideas → Grouping/Clustering the research, highlighting overlaps and gaps <br><br>***B.2.*** Quick fire labelling/titling → Give Names, Isolate Themes, Build the Project’s Lexicon|
 |II|Oct. 25|Research Review|***A. The Big Edit:*** Exploring themes<br><br>***A.1.*** Quick analysis → What’s interesting and why?<br><br>***A.2.*** Choose weird ideas with the most potential → New Aesthetics, Unusual narrative structures, Subversive in good and bad ways|
@@ -160,10 +160,8 @@ You can do more than what is suggested in the **A’s** and **B’s**, but no le
 
 ---
 
-> <h1 class="annex">REFERENCES</h1>
->
->
->
+> # ANNEX 
+> 
 > - Bisson T., [They’re Made out of Meat](https://www.mit.edu/people/dpolicar/writing/prose/text/thinkingMeat.html), Omni Magazine, 1991 → [Radio play](https://www.bbc.co.uk/sounds/play/p00yyz3b)
 > - Popper J., [Fragmenting a Monolith: Exploring and Disrupting an outer space imaginary](https://phaidra.kunstuni-linz.at/open/o:2792), 2021 → [Abstract](https://josephpopper.net/Fragmenting-a-Monolith)
 > - Anderson R., et al., [Speculative Anthropologies](https://culanth.org/fieldsights/series/speculative-anthropologies), Society for cultural anthropology, 2018
