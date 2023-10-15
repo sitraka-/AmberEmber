@@ -22,10 +22,17 @@ We are a way for the cosmos to know itself.”
     <!-- <style>.header2 header:after { content: "Power of 10 — Charles & Ray Eames (1977)"; }</style> -->
     <iframe width="560" height="315" src="https://www.youtube.com/embed/zBAMTsXg2aQ?si=Ss6tHycQHyVlU33S&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </section>
-<section data-state=header3>
-    <style>.header3 header:after { content: "DESIGN AS PROCESS"; }</style>
-    Connections between what?
+
+<section data-state=headerTabu>
+    <style>.headerTabu header:after { content: "Tabula Slenographica, Homann & Doppelmayr 1707"; }</style>
+    <img src="assets/images/map_moon_1707.jpg" />
 </section>
+
+<section data-state=header3>
+    <style>.header3 header:after { content: "Goddard Space Flight Center/NASA, US Geological Survey"; }</style>
+    <img src="assets/images/todayMoon.jpg" />
+</section>
+
 <section data-state=header3>
 <!-- <style>.header3 header:after { content: "DESIGN AS PROCESS"; }</style> -->
     <p style="text-align:left;width: 70%;margin: 0 auto;">Disciplines</p>
