@@ -57,4 +57,4 @@ This atlas serves as a conduit for shifting perspectives, encouraging a profound
      While not strictly an atlas, the "Codex Seraphinianus" is a highly relevant and imaginative work for the purpose of world-building. This surreal and enigmatic creation by Luigi Serafini defies easy categorisation. It is an intricate journey into a fantastical realm that combines elements of an encyclopaedia, an art book, and a linguistic experiment. Within its pages, readers encounter a vividly illustrated and cryptic world filled with bizarre flora, fauna, and landscapes, all accompanied by an invented script that challenges linguistic conventions.
 ---
 
-> # REFERNCES
+> <h1 class="annex">REFERNCES</h1>
