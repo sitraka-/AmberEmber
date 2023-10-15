@@ -8,14 +8,14 @@ custom_head: head-default.html
  <style>.header0 header:after { content: "Starpunk: A Stellar Atlas"; }</style>
     <img src="assets/images/amberEmber.png" />
 </section>
-<section data-background-color="#0056FF" data-state=header1>
-    <style>.header1 header:after { content: "Carl Sagan — The Shores of the Cosmic Ocean, 1980"; }</style>
+<section data-background-color="#05014a" data-state=header1>
+    <style>.header1 header:after { content: "Carl Sagan — Cosmos: The Shores of the Cosmic Ocean, 1980"; }</style>
     <blockquote>
         “We’re made of star stuff. <br >
 We are a way for the cosmos to know itself.”
     </blockquote>
     <aside class="notes">
-        Design does not exist in isolation, it isn't about a singular action. 📝
+        A quote I find at same time profound and utterly arrogant. Setting up a certain worldview at the centre of the cosmos📝
     </aside>
 </section>
 <section data-background-color="black" data-state=header0>
