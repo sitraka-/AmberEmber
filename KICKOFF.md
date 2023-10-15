@@ -5,14 +5,15 @@ custom_head: head-default.html
 ---
 
 <section>
-<h1>Starpunk presents:</h1>
+<h3>Starpunk presents:</h3>
     <img src="assets/images/amberEmber.png" />
-    <h2>A Stellar Atlas</h2>
+    <h3>A Stellar Atlas</h3>
 </section>
 <section data-background-color="#0056FF" data-state=header1>
-    <style>.header1 header:after { content: "Charles Eames"; }</style>
+    <style>.header1 header:after { content: "Carl Sagan — Cosmos: A Personal Voyage, The Shores of the Cosmic Ocean, 1980"; }</style>
     <blockquote>
-        The details are not the details, they make the product, just as details make the architecture — the gauge of the wire, the selection of the wood, the finish of the castings — the connections, the connections, the connections.
+        “We’re made of star stuff. <br >
+We are a way for the cosmos to know itself.”
     </blockquote>
     <aside class="notes">
         Design does not exist in isolation, it isn't about a singular action. 📝
