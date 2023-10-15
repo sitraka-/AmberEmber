@@ -157,9 +157,12 @@ You can do more than what is suggested in the **A’s** and **B’s**, but no le
 |V|||***B. Visualising/Documenting*** <br><br>***B.1.*** Documentation → Turn ideas, process, designed objects into media worth sharing. <br><br>***B.2.*** Script Writing → Come prepared, Know what you have to say when you have to say it, Rehearse!|
 |VI|Nov. 22|Presentation|***Bring it on!***|
 
+
 ---
 
 > <h1 class="annex">REFERENCES</h1>
+>
+>
 >
 > - Bisson T., [They’re Made out of Meat](https://www.mit.edu/people/dpolicar/writing/prose/text/thinkingMeat.html), Omni Magazine, 1991 → [Radio play](https://www.bbc.co.uk/sounds/play/p00yyz3b)
 > - Popper J., [Fragmenting a Monolith: Exploring and Disrupting an outer space imaginary](https://phaidra.kunstuni-linz.at/open/o:2792), 2021 → [Abstract](https://josephpopper.net/Fragmenting-a-Monolith)
