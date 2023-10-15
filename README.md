@@ -42,18 +42,12 @@ This atlas serves as a conduit for shifting perspectives, encouraging a profound
 1. [Atlas of Remote Islands](https://www.google.co.uk/books/edition/Atlas_of_Remote_Islands/-FBERAAACAAJ?hl=en): Fifty Islands I Have Never Set Foot On and Never Will, by Judith Schalansky, 2009 \[[wikipedia](https://en.wikipedia.org/wiki/Atlas_of_Remote_Islands)\]
 
     This atlas presents an unconventional perspective, offering an alternative knowledge and understanding of the world. Integrating text and illustrations, it introduces cartographic representations featuring some of the world's most secluded and distant islands. While it does not provide precise geographical coordinates, it instead imparts a profound sense of geographical context, historical import, and geographical isolation. It underscores the artistic and narrative dimensions of cartography. Within its pages, each island is accompanied by a composite narrative, merging factual data, historical anecdotes, and the author's reflective insights.
-
-
 2. [Codex Mendoza](https://en.wikipedia.org/wiki/Codex_Mendoza), ~1541
 
     The Codex Mendoza is a colonial-era manuscript originating from Mexico. Comprising pictorial illustrations and accompanying hieroglyphic text, it serves as an historical document, capturing the tribute system, governance, and social organisation of the Aztec Empire, offering rich insights into the civilization that once thrived in the heart of Mexico. Commissioned by Antonio de Mendoza, the first Viceroy of New Spain, It was designed to serve as a comprehensive exploration of Aztec culture on behalf of the Spanish crown, undoubtedly wielded as a [political instrument in the spanish conquest of the Aztecs](https://english.elpais.com/culture/2022-10-16/the-codex-mendoza-was-used-to-legitimize-spanish-conquest-of-the-aztecs.html).
-
-
 3. [An Atlas of the Difficult World](https://archive.org/details/atlasofdifficult00rich) by [Adrienne Rich](https://en.wikipedia.org/wiki/Adrienne_Rich), 1991
 
     Although not a conventional atlas, it takes on the essence of an atlas through poetic exploration and thematic organisation. Rich's collection of poems acts as a metaphorical atlas, where each poem serves as a map to navigate complex emotional, political, and societal landscapes. These maps guide readers through intricate terrains of identity, gender, politics, and society, offering unique perspectives on the challenging aspects of our world. In essence, "An Atlas of Difficult Words" is an atlas of poetic knowledge, where words and imagery are used to map the complex and multifaceted landscapes of human existence and social consciousness.
-
-
 4. [Codex Seraphinianus](https://www.holybooks.com/wp-content/uploads/CodexSeraphinianus.pdf) by Luigi Serafini, 1981 \[[wikipedia](https://en.wikipedia.org/wiki/Codex_Seraphinianus)\]
 
     While not strictly an atlas, the "Codex Seraphinianus" is a highly relevant and imaginative work for the purpose of world-building. This surreal and enigmatic creation by Luigi Serafini defies easy categorisation. It is an intricate journey into a fantastical realm that combines elements of an encyclopaedia, an art book, and a linguistic experiment. Within its pages, readers encounter a vividly illustrated and cryptic world filled with bizarre flora, fauna, and landscapes, all accompanied by an invented script that challenges linguistic conventions.
@@ -77,9 +71,7 @@ In this realm of storytelling and cultural significance, we cast our gaze upon t
 ## DELIVERABLES
 
 - A cohesive and exhaustive series of articles, charts, diagrams, and illustrations, thoughtfully organised around thematic subjects, allowing for intellectual exploration of the Amber Ember as an environment, delving into its infrastructure and associated imaginaries.
-
 - A well-defined strategy and approach for organising the content and executing the design of the atlas.
-
 - Assets designed for this atlas should be crafted and executed with the flexibility to seamlessly integrate into an online publication.
 
 While we do not require full completion, we seek more than just a prototype; we aim for a finely crafted narrative system that captivates our imagination.
@@ -93,11 +85,8 @@ Delve into the world of contemporary cartography and mapping within modern conte
 ## AIMS
 
 - Investigate non-human-centric narratives and novel storytelling arcs and structures.
-
 - Offer fresh perspectives that could influence the development and conceptualisation of a Starpunk narrative genre.
-
 - Examine the potential for “Speculative Xenology” as an emerging bridge between astrobiology, speculative fiction, and anthropology.
-
 - Establish a robust documentation and archival resource of narratives that can serve as a foundation for further development and iteration.
 
 ## MORE INFO ABOUT K5V STARS
@@ -139,7 +128,6 @@ In our never-ending search for life beyond our blue planet, a cadre of scientist
 But, here's the revelation that's slowly emerging from the cosmic tapestry — life isn't an isolated entity, but a complex system-level phenomenon. Its birth, its evolution, and perhaps most intriguingly, its detectability are inextricably woven into the intricate interplay between a planet and its nurturing star. This realisation becomes especially profound when we set our sights on two distinct avenues of exploration:
 
 - Firstly, we ponder the nature of the star's radiation. Does it flood its planetary companion with blistering ultraviolet rays? Or does a gentler spectrum, dominated by optical and infrared light, hold sway? Equally crucial is the star's demeanour over the aeons. Does it maintain a serene cosmic composure or erupt in tempestuous outbursts over geological ages? These celestial factors wield profound influence, not only on the planetary theatre but on the very emergence of life itself.
-
 - Secondly, we delve into the critical role that stellar radiation plays in our astrobiological methods. At present, our primary approach involves the transit method — a cosmic minuet where we observe the star's light filtering through the delicate veil of an orbiting planet's atmosphere. Yet, disentangling the subtle melodies arising from the planet's atmosphere from the harmonies introduced by "stellar contamination" is akin to deciphering a cosmic symphony.
 
 In our unyielding quest for understanding, we strive to recreate the cosmic melodies of the planets within our celestial neighbourhood. We recognize that the star's radiance isn't just incidental but the very essence of the breathtaking vistas that these alien worlds present. Rather than reducing our discourse to binary labels of habitable or inhabited planets, we propose a broader vista. We implore our fellow astrobiologists to embrace the exquisite interplay between planet and star, to acknowledge the enduring significance of these celestial partnerships that span cosmic epochs. In doing so, we aim to blur the lines that have traditionally demarcated planetary scientists from their stellar astrophysicist brethren.
@@ -151,14 +139,13 @@ Our mission is resolute: as we embark on narratives that orbit the radiant hosts
 Each week is punctuated by a Review/Presentation. They provide valuable feedback and guidance on your ongoing work. It's essential to come prepared for these meetings to ensure productive use of time. Following each meeting, we set weekly objectives categorised as A's and B's, as outlined in the table below.
 
 - **A's** tend involve reflective tasks, where you'll analyse your progress, make sense of feedback received, and strategise how to move forward effectively.
-
 - **B's** tend to focus on specific deliverables required for the upcoming review or meeting. These tasks are designed to keep our workflow efficient and goal-oriented.
 
 You can do more than what is suggested in the **A’s** and **B’s**, but no less, and should aim to meet at least those minimum expectations.
 
 | week# | Date | Stages | Objectives |
 | --- | --- | ---- | ----- |
-|I|Oct.18|Brief Launch| <p>***A. Initial scoping:*** Shaping your understanding </p><p>***A.1.*** Mapping information related to the subject → Anecdotal stories, Speculative Technologies, Research Papers, Cultural tropes, etc. (e.g. quadrant model diagramming, mind mapping, future cones, the stack, …)</p><p>***A.2.*** Investigate precedents and genealogy → Atlas as socio-political instrument, as metaphor, as recorded histories, etc. </p><p>***A.3.*** Shaping your approach/position → A synthesis of **A.1. + A.2.** </p>|
+|I|Oct.18|Brief Launch| <p> ***A. Initial scoping:*** Shaping your understanding </p><p> ***A.1.*** Mapping information related to the subject → Anecdotal stories, Speculative Technologies, Research Papers, Cultural tropes, etc. (e.g. quadrant model diagramming, mind mapping, future cones, the stack, …) </p>***A.2.*** Investigate precedents and genealogy → Atlas as socio-political instrument, as metaphor, as recorded histories, etc. <br><br>***A.3.*** Shaping your approach/position → A synthesis of **A.1. + A.2.**|
 |I|||<p>***B. Initial ideation:*** Shaping your direction </p><p>***B.1.*** Framing/linking big ideas → Grouping/Clustering the research, highlighting overlaps and gaps </p><p>***B.2.*** Quick fire labelling/titling → Give Names, Isolate Themes, Build the Project’s Lexicon</p>|
 |II|Oct. 25|Research Review|<p>***A. The Big Edit:*** Exploring themes</p><p>***A.1.*** Quick analysis → What’s interesting and why?</p><p>***A.2.*** Choose weird ideas with the most potential → New Aesthetics, Unusual narrative structures, Subversive in good and bad ways</p>|
 |II|||<p>***B. Quick Sketching:*** Re-Explore what you thought you knew </p><p>***B.1.*** Think with your “HANDS” → Start sketching, 3D modelling, Writing, Prompting ChatGPT, Singing, Dancing, Laughing the research. </p><p>***B.2.*** Reframing → Reevaluate/Re-Clustering the research, Give New Names/Labels </p><p>***B.3.*** Final Edit → Choose the 2 ideas with the most content</p> |
@@ -174,11 +161,8 @@ You can do more than what is suggested in the **A’s** and **B’s**, but no le
 
 > <h1 class="annex">REFERENCES</h1>
 >
-> Bisson T., [They’re Made out of Meat](https://www.mit.edu/people/dpolicar/writing/prose/text/thinkingMeat.html), Omni Magazine, 1991 → [Radio play](https://www.bbc.co.uk/sounds/play/p00yyz3b)
->
-> Popper J., [Fragmenting a Monolith: Exploring and Disrupting an outer space imaginary](https://phaidra.kunstuni-linz.at/open/o:2792), 2021 → [Abstract](https://josephpopper.net/Fragmenting-a-Monolith)
->
-> Anderson R., et al., [Speculative Anthropologies](https://culanth.org/fieldsights/series/speculative-anthropologies), Society for cultural anthropology, 2018
->
-> [Hawaii Space Exploration and Analog Simulation](https://www.hi-seas.org/about-hi-seas)
+> - Bisson T., [They’re Made out of Meat](https://www.mit.edu/people/dpolicar/writing/prose/text/thinkingMeat.html), Omni Magazine, 1991 → [Radio play](https://www.bbc.co.uk/sounds/play/p00yyz3b)
+> - Popper J., [Fragmenting a Monolith: Exploring and Disrupting an outer space imaginary](https://phaidra.kunstuni-linz.at/open/o:2792), 2021 → [Abstract](https://josephpopper.net/Fragmenting-a-Monolith)
+> - Anderson R., et al., [Speculative Anthropologies](https://culanth.org/fieldsights/series/speculative-anthropologies), Society for cultural anthropology, 2018
+> - [Hawaii Space Exploration and Analog Simulation](https://www.hi-seas.org/about-hi-seas)
 >
