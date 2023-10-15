@@ -4,13 +4,12 @@ layout: reveal
 custom_head: head-default.html
 ---
 
-<section>
-<h3>Starpunk presents:</h3>
+<section data-state=header0>
+ <style>.header0 header:after { content: "Starpunk: A Stellar Atlas"; }</style>
     <img src="assets/images/amberEmber.png" />
-    <h3>A Stellar Atlas</h3>
 </section>
 <section data-background-color="#0056FF" data-state=header1>
-    <style>.header1 header:after { content: "Carl Sagan — Cosmos: A Personal Voyage, The Shores of the Cosmic Ocean, 1980"; }</style>
+    <style>.header1 header:after { content: "Carl Sagan — The Shores of the Cosmic Ocean, 1980"; }</style>
     <blockquote>
         “We’re made of star stuff. <br >
 We are a way for the cosmos to know itself.”
@@ -19,9 +18,9 @@ We are a way for the cosmos to know itself.”
         Design does not exist in isolation, it isn't about a singular action. 📝
     </aside>
 </section>
-<section data-background-color="black" data-state=header2>
-    <style>.header2 header:after { content: "Power of 10 — Charles & Ray Eames (1977)"; }</style>
-    <iframe width="560" height="420" src="https://www.youtube.com/embed/0fKBhvDjuy0?si=hW3hk7N34l9aM8RI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<section data-background-color="black" data-state=header0>
+    <!-- <style>.header2 header:after { content: "Power of 10 — Charles & Ray Eames (1977)"; }</style> -->
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/zBAMTsXg2aQ?si=Ss6tHycQHyVlU33S&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </section>
 <section data-state=header3>
     <style>.header3 header:after { content: "DESIGN AS PROCESS"; }</style>
