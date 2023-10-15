@@ -414,7 +414,7 @@ p.fragment {
 
 .controls-arrow {
   border-radius: 0 !important;
-  color: blue !important;
+  color: var(--r-link-color) !important;
 }
 
 .controls-arrow:before {

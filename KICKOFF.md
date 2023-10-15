@@ -5,7 +5,9 @@ custom_head: head-default.html
 ---
 
 <section>
-    <img src="assets/images/AmberEmber.png" />
+<h1>Starpunk presents:</h1>
+    <img src="assets/images/amberEmber.png" />
+    <h2>A Stellar Atlas</h2>
 </section>
 <section data-background-color="#0056FF" data-state=header1>
     <style>.header1 header:after { content: "Charles Eames"; }</style>
