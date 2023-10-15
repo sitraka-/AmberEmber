@@ -164,6 +164,7 @@ You can do more than what is suggested in the **A’s** and **B’s**, but no le
 > 
 > ## references
 >
+> - [Launch presentation](KICKOFF.md)
 > - Bisson T., [They’re Made out of Meat](https://www.mit.edu/people/dpolicar/writing/prose/text/thinkingMeat.html), Omni Magazine, 1991 → [Radio play](https://www.bbc.co.uk/sounds/play/p00yyz3b)
 > - Popper J., [Fragmenting a Monolith: Exploring and Disrupting an outer space imaginary](https://phaidra.kunstuni-linz.at/open/o:2792), 2021 → [Abstract](https://josephpopper.net/Fragmenting-a-Monolith)
 > - Anderson R., et al., [Speculative Anthropologies](https://culanth.org/fieldsights/series/speculative-anthropologies), Society for cultural anthropology, 2018
