@@ -166,3 +166,4 @@ You can do more than what is suggested in the **A’s** and **B’s**, but no le
 > - Anderson R., et al., [Speculative Anthropologies](https://culanth.org/fieldsights/series/speculative-anthropologies), Society for cultural anthropology, 2018
 > - [Hawaii Space Exploration and Analog Simulation](https://www.hi-seas.org/about-hi-seas)
 >
+>
