@@ -47,15 +47,18 @@ We are a way for the cosmos to know itself.”
         Exploring uncharted narratives, Challenging the way we look at things and the way we understand them. 📝
     </aside>
 </section>
-<section data-background-color="#0056FF" data-state=header4>
+<section data-state=header4>
 <style>.header4 header:after { content: "The Brief"; }</style>
-    <blockquote>1.<br>Create connections between objects,<br>and between yourselves</blockquote>
+    Something about how we see aliens, in continuation of colonial stuff
     <aside class="notes">
         It's a collective endeavour. And it's also about getting familiar with the workshops.
     </aside>
 </section>
-<section data-background-color="#0056FF" data-state=header4>
-    <blockquote>2.<br>Collectively design and craft a chain reaction, a kinetic cascade, made of dynamic objects, whose sole purpose is to carry momentum forward</blockquote>
+<section data-state=header4>
+    Something about the aims, and narrative structures
+</section>
+<section data-state=header4>
+    Some output examples in 3D and stuff
 </section>
 <section data-background-color="black" data-state=header5>
     <style>.header5 header:after { content: "Der Lauf Der Dinge or The Way Things Go — Peter Fischli and David Weiss (1987)"; }</style>
