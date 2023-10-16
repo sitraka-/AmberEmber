@@ -42,7 +42,7 @@ We are a way for the cosmos to know itself.”
     <p class="fragment">Industries & Consumers</p>
     <p class="fragment">Individuals & Environment</p>
     <p class="fragment">Objects & Subjects</p> -->
-    An Atlas Of Unknown Places
+    <h2>An Atlas<br>Of The<br>Unknown</h2>
     <aside class="notes">
         Exploring uncharted narratives, Challenging the way we look at things and the way we understand them. 📝
     </aside>
