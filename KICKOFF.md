@@ -24,7 +24,7 @@ We are a way for the cosmos to know itself.”
 </section>
 
 <section data-state=headerTabu>
-    <style>.headerTabu header:after { content: "Tabula Slenographica, Homann & Doppelmayr 1707"; }</style>
+    <style>.headerTabu header:after { content: "Tabula Slenographica, Homann & Doppelmayr, 1707"; }</style>
     <img src="assets/images/map_moon_1707.jpg" />
 </section>
 
@@ -33,17 +33,18 @@ We are a way for the cosmos to know itself.”
     <img src="assets/images/todayMoon.jpg" />
 </section>
 
-<section data-state=header3>
+<section data-state=header0>
 <!-- <style>.header3 header:after { content: "DESIGN AS PROCESS"; }</style> -->
-    <p style="text-align:left;width: 70%;margin: 0 auto;">Disciplines</p>
+    <!-- <p style="text-align:left;width: 70%;margin: 0 auto;">Disciplines</p>
     <p class="fragment">Departments</p>
     <p class="fragment">Institutions</p>
     <p class="fragment">People & Machines</p>
     <p class="fragment">Industries & Consumers</p>
     <p class="fragment">Individuals & Environment</p>
-    <p class="fragment">Objects & Subjects</p>
+    <p class="fragment">Objects & Subjects</p> -->
+    An Atlas Of Unknown Places
     <aside class="notes">
-        Design as a process that ties things together; makes sense of things, by creating, transforming, arranging things around. 📝
+        Exploring uncharted narratives, Challenging the way we look at things and the way we understand them. 📝
     </aside>
 </section>
 <section data-background-color="#0056FF" data-state=header4>
