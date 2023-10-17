@@ -4,7 +4,7 @@ layout: reveal
 custom_head: head-default.html
 ---
 
-<section data-background-image="http://example.com/image.png data-state=header0>
+<section data-background-image="assets/images/Tokyo.jpg" data-state=header0>
  <style>.header0 header:after { content: "Starpunk: A Stellar Atlas"; }</style>
     <h1>STARPUNK<br>X<br>FUTURE HUMANS</h1>
 </section>
