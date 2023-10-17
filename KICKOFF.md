@@ -86,7 +86,7 @@ We are a way for the cosmos to know itself.”
 <!-- <style>.header4 header:after { content: "The Brief"; }</style> -->
     <img src="assets/images/ufo.jpg" />
     <aside class="notes">
-        even the way we entertain the idea of advanced extraterrestrial world, fitting within certain western idea of natural progress,
+        Challenge the way we entertain the idea of advanced extraterrestrial world, fitting within certain western idea of natural progress,
     </aside>
 </section>
 <section data-state=mission data-background-color="black">
@@ -96,9 +96,23 @@ We are a way for the cosmos to know itself.”
         fermi paradox, if they advanced they would go visit others, and they'd follow some extractive practice. In a way projecting our capitalist fears.
     </aside>
 </section>
-
-<section data-state=header4>
-    Something about the aims, and narrative structures
+<section data-state=mission>
+<!-- <style>.mission header:after { content: "MISSION"; }</style> -->
+    <p style="text-align:left;width: 70%;margin: 0 auto;">AIMS:</p>
+    <p class="fragment"> ✓ Investigate non-human-centric narratives and novel storytelling arcs and structures.</p>
+    <p class="fragment">✓ Offer fresh perspectives that could influence the development and conceptualisation of a Starpunk narrative genre.
+</p>
+    <p class="fragment">✓ Examine the potential for “Speculative Xenology” as an emerging bridge between astrobiology, speculative fiction, and anthropology.</p>
+    <p class="fragment">✓ Establish a robust documentation and archival resource of narratives that can serve as a foundation for further development and iteration.</p>
+</section>
+<section data-state=OUTPUT>
+<style>.mission header:after { content: "OUTPUT"; }</style>
+    <p style="text-align:left;width: 70%;margin: 0 auto;">OUTPUTS:</p>
+    <p class="fragment"> ✓ A cohesive and exhaustive series of articles, charts, diagrams, and illustrations, thoughtfully organised around thematic subjects, allowing for intellectual exploration of the Amber Ember as an environment, delving into its infrastructure and associated imaginaries.</p>
+    <p class="fragment">✓ A well-defined strategy and approach for organising the content and executing the design of the atlas.
+</p>
+    <p class="fragment">✓ Examine the potential for “Speculative Xenology” as an emerging bridge between astrobiology, speculative fiction, and anthropology.</p>
+    <p class="fragment">✓ Establish a robust documentation and archival resource of narratives that can serve as a foundation for further development and iteration.</p>
 </section>
 <section data-state=header4>
     Some output examples in 3D and stuff
