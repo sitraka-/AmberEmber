@@ -9,7 +9,7 @@ custom_head: head-default.html
  <style>.header0 header:after { content: "Starpunk X Future Humans"; }</style>
     <!-- <h1 style="color:white;">STARPUNK<br>X<br>FUTURE HUMANS</h1> -->
     <img src="assets/images/starpunk_w.png" />
-    <h3 style="color:white">A STELLAR ATLAS</h3>
+    <!-- <h3 style="color:white">A STELLAR ATLAS</h3> -->
 </section>
 <section data-state=header0>
     <img src="assets/images/amberEmber.png" />
