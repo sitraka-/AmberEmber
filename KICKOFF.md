@@ -84,13 +84,17 @@ We are a way for the cosmos to know itself.”
 
 <section data-state=mission data-background-color="black">
 <!-- <style>.header4 header:after { content: "The Brief"; }</style> -->
-    even the way we entertain the idea of alien, project 
     <img src="assets/images/ufo.jpg" />
+    <aside class="notes">
+        even the way we entertain the idea of advanced extraterrestrial world, fitting within certain western idea of natural progress,
+    </aside>
 </section>
-<section data-state=mission>
+<section data-state=mission data-background-color="black">
 <!-- <style>.header4 header:after { content: "The Brief"; }</style> -->
-    even the way we entertain the idea of alien 
     <img src="assets/images/whexplodes.gif" />
+    <aside class="notes">
+        fermi paradox, if they advanced they would go visit others, and they'd follow some extractive practice. In a way projecting our capitalist fears.
+    </aside>
 </section>
 
 <section data-state=header4>
