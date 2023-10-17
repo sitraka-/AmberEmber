@@ -8,7 +8,7 @@ custom_head: head-default.html
 <section ection data-background-image="assets/images/sunFlares.jpg" data-background-opacity="0.5" data-background-color="#FF6600" data-state=header0>
  <style>.header0 header:after { content: "Starpunk X Future Humans"; }</style>
     <!-- <h1 style="color:white;">STARPUNK<br>X<br>FUTURE HUMANS</h1> -->
-    <img src="assets/images/amberEmber_w.png" />
+    <img src="assets/images/starpunk_w.png" />
     <h3 style="color:white">A STELLAR ATLAS</h3>
 </section>
 <section data-state=header0>
