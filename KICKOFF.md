@@ -26,14 +26,6 @@ We are a way for the cosmos to know itself.”
     </aside>
 </section>
 <section data-state=header0>
-<!-- <style>.header3 header:after { content: "DESIGN AS PROCESS"; }</style> -->
-    <!-- <p style="text-align:left;width: 70%;margin: 0 auto;">Disciplines</p>
-    <p class="fragment">Departments</p>
-    <p class="fragment">Institutions</p>
-    <p class="fragment">People & Machines</p>
-    <p class="fragment">Industries & Consumers</p>
-    <p class="fragment">Individuals & Environment</p>
-    <p class="fragment">Objects & Subjects</p> -->
     <h1>Future Humans<br>—<br><span style="font-style:italic; text-transform:lowercase;">Life Otherwise</span></h1>
     <aside class="notes">
         Exploring uncharted narratives, Challenging the way we look at things and the way we understand them. 📝
@@ -65,6 +57,28 @@ We are a way for the cosmos to know itself.”
 <section data-state=header3>
     <style>.header3 header:after { content: "Goddard Space Flight Center/NASA, US Geological Survey"; }</style>
     <img src="assets/images/todayMoon.jpg" />
+</section>
+
+<section data-state=Moon>
+    <style>.Moon header:after { content: "The Moon, H. P. Wilkins and Patrick Moore, 1958"; }</style>
+    <img src="assets/images/DSC02191.jpg" />
+</section>
+
+<section data-state=Moon>
+    <style>.Moon header:after { content: "The Moon, H. P. Wilkins and Patrick Moore, 1958"; }</style>
+    <img src="assets/images/DSC02187.jpg" />
+</section>
+<section data-state=Moon>
+    <!-- <style>.Moon header:after { content: "The Moon, H. P. Wilkins and Patrick Moore, 1958"; }</style> -->
+    <img src="assets/images/DSC02192.jpg" />
+</section>
+<section data-state=Sun>
+    <style>.Sun header:after { content: "The Sun, Georgio Abetti, 1957"; }</style>
+    <img src="assets/images/DSC02200.jpg" />
+</section>
+<section data-state=Moon>
+    <!-- <style>.Moon header:after { content: "The Moon, H. P. Wilkins and Patrick Moore, 1958"; }</style> -->
+    <img src="assets/images/DSC02201.jpg" />
 </section>
 
 
