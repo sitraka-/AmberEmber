@@ -5,7 +5,7 @@ custom_head: head-default.html
 ---
 
 <!-- <section data-background-image="assets/images/Tokyo.jpg" data-background-opacity="0.2" data-state=header0> -->
-<section data-background-color="#FF6600" data-state=header0>
+<section ection data-background-image="assets/images/sun.png" data-background-opacity="0.2" data-background-color="#FF6600" data-state=header0>
  <style>.header0 header:after { content: "Starpunk X Future Humans"; }</style>
     <h1 style="color:white;">STARPUNK<br>X<br>FUTURE HUMANS</h1>
 </section>
