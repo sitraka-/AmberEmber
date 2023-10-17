@@ -59,32 +59,32 @@ We are a way for the cosmos to know itself.”
     <img src="assets/images/todayMoon.jpg" />
 </section>
 
-<section data-state=Moon data-background-color="black">
+<section data-state=Moon data-background-color="black" data-background-image="assets/images/DSC02191.jpg">
     <style>.Moon header:after { content: "The Moon, H. P. Wilkins and Patrick Moore, 1958"; }</style>
-    <img src="assets/images/DSC02191.jpg" />
+    <!-- <img src="assets/images/DSC02191.jpg" /> -->
 </section>
 
-<section data-state=Moon data-background-color="black">
+<section data-state=Moon data-background-color="black" data-background-image="assets/images/DSC02187.jpg">
     <!-- <style>.Moon header:after { content: "The Moon, H. P. Wilkins and Patrick Moore, 1958"; }</style> -->
-    <img src="assets/images/DSC02187.jpg" />
+    <!-- <img src="assets/images/DSC02187.jpg" /> -->
 </section>
-<section data-state=Moon data-background-color="black">
+<section data-state=Moon data-background-color="black" data-background-image="assets/images/DSC02192.JPG">
     <!-- <style>.Moon header:after { content: "The Moon, H. P. Wilkins and Patrick Moore, 1958"; }</style> -->
-    <img src="assets/images/DSC02192.JPG" />
+    <!-- <img src="assets/images/DSC02192.JPG" /> -->
 </section>
-<section data-state=Sun data-background-color="black">
+<section data-state=Sun data-background-color="black" data-background-image="assets/images/DSC02200.jpg">
     <style>.Sun header:after { content: "The Sun, Georgio Abetti, 1957"; }</style>
-    <img src="assets/images/DSC02200.jpg" />
+    <!-- <img src="assets/images/DSC02200.jpg" /> -->
 </section>
-<section data-state=Sun data-background-color="black">
+<section data-state=Sun data-background-color="black" data-background-image="assets/images/DSC02201.jpg">
     <!-- <style>.Moon header:after { content: "The Moon, H. P. Wilkins and Patrick Moore, 1958"; }</style> -->
-    <img src="assets/images/DSC02201.jpg" />
+    <!-- <img src="assets/images/DSC02201.jpg" /> -->
 </section>
 
 
-<section data-state=mission>
+<section data-state=mission data-background-color="black">
 <!-- <style>.header4 header:after { content: "The Brief"; }</style> -->
-    even the way we entertain the idea of alien 
+    even the way we entertain the idea of alien, project 
     <img src="assets/images/ufo.jpg" />
 </section>
 <section data-state=mission>
