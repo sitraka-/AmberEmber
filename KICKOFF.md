@@ -6,6 +6,9 @@ custom_head: head-default.html
 
 <section data-state=header0>
  <style>.header0 header:after { content: "Starpunk: A Stellar Atlas"; }</style>
+    <h1>STARPUNK<br>X<br>FUTURE HUMANS</h1>
+</section>
+<section data-state=header0>
     <img src="assets/images/amberEmber.png" />
 </section>
 <section data-background-color="#05014a" data-state=header1>
