@@ -59,24 +59,24 @@ We are a way for the cosmos to know itself.”
     <img src="assets/images/todayMoon.jpg" />
 </section>
 
-<section data-state=Moon>
+<section data-state=Moon data-background-color="black">
     <style>.Moon header:after { content: "The Moon, H. P. Wilkins and Patrick Moore, 1958"; }</style>
     <img src="assets/images/DSC02191.jpg" />
 </section>
 
-<section data-state=Moon>
-    <style>.Moon header:after { content: "The Moon, H. P. Wilkins and Patrick Moore, 1958"; }</style>
+<section data-state=Moon data-background-color="black">
+    <!-- <style>.Moon header:after { content: "The Moon, H. P. Wilkins and Patrick Moore, 1958"; }</style> -->
     <img src="assets/images/DSC02187.jpg" />
 </section>
-<section data-state=Moon>
+<section data-state=Moon data-background-color="black">
     <!-- <style>.Moon header:after { content: "The Moon, H. P. Wilkins and Patrick Moore, 1958"; }</style> -->
-    <img src="assets/images/DSC02192.jpg" />
+    <img src="assets/images/DSC02192.JPG" />
 </section>
-<section data-state=Sun>
+<section data-state=Sun data-background-color="black">
     <style>.Sun header:after { content: "The Sun, Georgio Abetti, 1957"; }</style>
     <img src="assets/images/DSC02200.jpg" />
 </section>
-<section data-state=Moon>
+<section data-state=Sun data-background-color="black">
     <!-- <style>.Moon header:after { content: "The Moon, H. P. Wilkins and Patrick Moore, 1958"; }</style> -->
     <img src="assets/images/DSC02201.jpg" />
 </section>
@@ -84,9 +84,15 @@ We are a way for the cosmos to know itself.”
 
 <section data-state=mission>
 <!-- <style>.header4 header:after { content: "The Brief"; }</style> -->
-    Something about how we see aliens, in continuation of colonial stuff
+    even the way we entertain the idea of alien 
     <img src="assets/images/ufo.jpg" />
 </section>
+<section data-state=mission>
+<!-- <style>.header4 header:after { content: "The Brief"; }</style> -->
+    even the way we entertain the idea of alien 
+    <img src="assets/images/whexplodes.gif" />
+</section>
+
 <section data-state=header4>
     Something about the aims, and narrative structures
 </section>
