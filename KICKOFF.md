@@ -4,9 +4,10 @@ layout: reveal
 custom_head: head-default.html
 ---
 
-<section data-background-image="assets/images/Tokyo.jpg" data-background-opacity="0.2" data-state=header0>
+<!-- <section data-background-image="assets/images/Tokyo.jpg" data-background-opacity="0.2" data-state=header0> -->
+<section data-background-color="#FF6600" data-state=header0>
  <style>.header0 header:after { content: "Starpunk: A Stellar Atlas"; }</style>
-    <h1>STARPUNK<br>X<br>FUTURE HUMANS</h1>
+    <h1 style="color:white;">STARPUNK<br>X<br>FUTURE HUMANS</h1>
 </section>
 <section data-state=header0>
     <img src="assets/images/amberEmber.png" />
