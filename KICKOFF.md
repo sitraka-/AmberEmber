@@ -34,7 +34,7 @@ We are a way for the cosmos to know itself.”
     <p class="fragment">Industries & Consumers</p>
     <p class="fragment">Individuals & Environment</p>
     <p class="fragment">Objects & Subjects</p> -->
-    <h1>Future Humans<br>—<br><i>Life Otherwise</i></h1>
+    <h1>Future Humans<br>—<br><span style="font-style:italic; text-transform:lowercase;">Life Otherwise</i></h1>
     <aside class="notes">
         Exploring uncharted narratives, Challenging the way we look at things and the way we understand them. 📝
     </aside>
@@ -43,19 +43,8 @@ We are a way for the cosmos to know itself.”
     <!-- <style>.header2 header:after { content: "Power of 10 — Charles & Ray Eames (1977)"; }</style> -->
     <iframe width="560" height="315" src="https://www.youtube.com/embed/zBAMTsXg2aQ?si=Ss6tHycQHyVlU33S&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </section>
-
-<section data-state=headerTabu>
-    <style>.headerTabu header:after { content: "Tabula Selenographica, Homann & Doppelmayr, 1707"; }</style>
-    <img src="assets/images/map_moon_1707.jpg" />
-</section>
-
-<section data-state=header3>
-    <style>.header3 header:after { content: "Goddard Space Flight Center/NASA, US Geological Survey"; }</style>
-    <img src="assets/images/todayMoon.jpg" />
-</section>
-
-<section data-state=header0>
-<!-- <style>.header3 header:after { content: "DESIGN AS PROCESS"; }</style> -->
+<section data-state=mission>
+<style>.mission header:after { content: "MISSION"; }</style>
     <!-- <p style="text-align:left;width: 70%;margin: 0 auto;">Disciplines</p>
     <p class="fragment">Departments</p>
     <p class="fragment">Institutions</p>
@@ -68,8 +57,19 @@ We are a way for the cosmos to know itself.”
         Exploring uncharted narratives, Challenging the way we look at things and the way we understand them. 📝
     </aside>
 </section>
-<section data-state=header4>
-<style>.header4 header:after { content: "The Brief"; }</style>
+<section data-state=headerTabu>
+    <style>.headerTabu header:after { content: "Tabula Selenographica, Homann & Doppelmayr, 1707"; }</style>
+    <img src="assets/images/map_moon_1707.jpg" />
+</section>
+
+<section data-state=header3>
+    <style>.header3 header:after { content: "Goddard Space Flight Center/NASA, US Geological Survey"; }</style>
+    <img src="assets/images/todayMoon.jpg" />
+</section>
+
+
+<section data-state=mission>
+<!-- <style>.header4 header:after { content: "The Brief"; }</style> -->
     Something about how we see aliens, in continuation of colonial stuff
     <aside class="notes">
         It's a collective endeavour. And it's also about getting familiar with the workshops.
