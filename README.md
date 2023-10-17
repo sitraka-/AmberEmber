@@ -11,7 +11,7 @@ Carl Sagan — [Cosmos: A Personal Voyage, The Shores of the Cosmic Ocean, 1980]
 
 [![TheAmberEmber](assets/images/TheAmberEmber.png)](https://youtu.be/zBAMTsXg2aQ)
 
-## INTRODUCTION
+## BACKGROUND
 
 _(Text partly styled by ChatGPT channelling its inner Carl Sagan)_
 
@@ -23,7 +23,13 @@ With an astonishing lifespan of around 30 billion years — three times the Sun'
 
 This atlas serves as our interstellar guide, inviting us to embark on an expedition through the celestial tapestry of the Amber Ember, where science and wonder converge to unfurl the cosmic narrative of a star and its influence on its enthralling planetary companions.
 
-## THE BRIEF
+This project is a collaborative effort with the Berggruen Institute's "Future Humans" group, under the leadership of Claire Isabel Webb, within the framework of _Life, Otherwise_. 
+
+_Life Otherwise_ is an experimental initiative that delves into the assumptions surrounding the concept of life in an astrobiological context. It involves the collaboration of scientists and philosophers, jointly engaged in modelling an exosolar system, exploring speculative histories, hypothetical life forms, and cosmological events. 
+
+While various teams and partners are dedicated to investigating each planet within the system, our specific contribution revolves around the development of this stellar atlas. The ultimate goal of this project is to blur the boundaries that conventionally separate planetary science and astrobiology.
+
+## MISSION
 
 Your task is to embark on a captivating journey, one that will narrate the cosmic tales of a K5V star, the Amber Ember. Think of it as crafting an atlas that breathes life into this celestial character. Within its pages, you'll employ precise maps, diagrams, illustrations, articles, and so on, to weave a narrative as rich and profound as the universe itself.
 
@@ -68,7 +74,7 @@ In this chapter, the Amber Ember assumes the role of a celestial maestro, orches
 
 In this realm of storytelling and cultural significance, we cast our gaze upon the Amber Ember's potential to become the cornerstone of folklore for the inhabitants of its stellar realm. Myths take root, intertwining with the star's hinted inner intelligence, akin to the fabled [cosmic necklaces](#more-interesting-things-to-consider). Within this mythic landscape, tales emerge, recounting encounters with enigmatic alien technologies, and the whispered presence of satellites and probes, — such as the illustrious [NASA's Parker Solar Probe](https://www.nasa.gov/feature/goddard/2021/nasa-enters-the-solar-atmosphere-for-the-first-time-bringing-new-discoveries). Yet, the inquiry delves deeper; it explores the intricacies of these interactions and ponders how such ethereal encounters can be measured, represented, and immortalised in the annals of this cosmic chronicle.
 
-## DELIVERABLES
+## OUTPUTS
 
 - A cohesive and exhaustive series of articles, charts, diagrams, and illustrations, thoughtfully organised around thematic subjects, allowing for intellectual exploration of the Amber Ember as an environment, delving into its infrastructure and associated imaginaries.
 - A well-defined strategy and approach for organising the content and executing the design of the atlas.
@@ -89,7 +95,7 @@ Delve into the world of contemporary cartography and mapping within modern conte
 - Examine the potential for “Speculative Xenology” as an emerging bridge between astrobiology, speculative fiction, and anthropology.
 - Establish a robust documentation and archival resource of narratives that can serve as a foundation for further development and iteration.
 
-## MORE INFO ABOUT K5V STARS
+## FURTHER INFORMATION ABOUT K5V STARS
 
 ### Habitability
 
@@ -134,7 +140,7 @@ In our unyielding quest for understanding, we strive to recreate the cosmic melo
 
 Our mission is resolute: as we embark on narratives that orbit the radiant hosts of cosmic systems, we seek to inspire — or rekindle — the inclusion of stars in our very concept of habitability. We champion the idea that the search for life is not confined to planets alone, but encompasses the cosmic dance between star and planet.
 
-## TIMETABLE
+## TIMELINE
 
 Each week is punctuated by a Review/Presentation. They provide valuable feedback and guidance on your ongoing work. It's essential to come prepared for these meetings to ensure productive use of time. Following each meeting, we set weekly objectives categorised as A's and B's, as outlined in the table below.
 
@@ -143,19 +149,24 @@ Each week is punctuated by a Review/Presentation. They provide valuable feedback
 
 You can do more than what is suggested in the **A’s** and **B’s**, but no less, and should aim to meet at least those minimum expectations.
 
+During the project, we will engage in partner calls with Claire Webb. These sessions will serve as occasions to assess our progress, gather information, and collect valuable, constructive feedback.
+
 | wk# | Date | Stages | Objectives |
 | --- | --- | --- | --------- |
 |I|18/10|Launch| ***A. Initial scoping:*** Shaping your understanding <br><br>***A.1.*** Mapping information related to the subject → Anecdotal stories, Speculative Technologies, Research Papers, Cultural tropes, etc. (e.g. quadrant model diagramming, mind mapping, future cones, the stack, …) <br><br>***A.2.*** Investigate precedents and genealogy → Atlas as socio-political instrument, as metaphor, as recorded histories, etc. <br><br>***A.3.*** Shaping your approach/position → A synthesis of **A.1. + A.2.**|
 |I|||***B. Initial ideation:*** Shaping your direction <br><br>***B.1.*** Framing/linking big ideas → Grouping/Clustering the research, highlighting overlaps and gaps <br><br>***B.2.*** Quick fire labelling/titling → Give Names, Isolate Themes, Build the Project’s Lexicon|
+|I|18/10|Partner Call|16:00-17:00 on Teams, ***Introductory chat***|
 |II|25/10|Research|***A. The Big Edit:*** Exploring themes<br><br>***A.1.*** Quick analysis → What’s interesting and why?<br><br>***A.2.*** Choose weird ideas with the most potential → New Aesthetics, Unusual narrative structures, Subversive in good and bad ways|
 |II|||***B. Quick Sketching:*** Re-Explore what you thought you knew <br><br>***B.1.*** Think with your “HANDS” → Start sketching, 3D modelling, Writing, Prompting ChatGPT, Singing, Dancing, Laughing the research. <br><br>***B.2.*** Reframing → Reevaluate/Re-Clustering the research, Give New Names/Labels <br><br>***B.3.*** Final Edit → Choose the 2 ideas with the most content |
 |III|1/11|Concept|***A. Final Scope:*** Delving Deeper<br><br>***A.1.*** Choose a single direction → Most Inspiring, Most Memorable<br><br>***A.2.*** Set Up Parameters → Exhaustive list of what needs to be done/developed in order to meet the deliverables|
 |III|||***B. Make Things*** <br><br> ***B.1.*** Develop Sketches into prototypes → Refine drawings, visuals, texts, and so on. Outline what their final outcomes should be.|
+|III|1/11|Partner Call|16:30-17:00 on Teams, ***Mid project review***|
 |IV|8/11|Prototyping|***A. Final Edit:*** Edit and Arrange <br><br>***A.1.*** Planning → Make a thorough plan of what needs to be done when <br><br>***A.2.*** Sourcing → Map out the resources needed (e.g. Rendering/Printing time, Technician help/advice, workshops, materials, …)|
 |IV|||***B. The Plan in Action:*** Get On with It!! <br><br>***B.1.*** Optimise → Weigh in on what is worth making for real, and what is worth simulating|
 |V|15/11|Communication|***A. Sequencing***<br><br>***A.1.*** Presenting → Narrate your narrative, Start with the big idea, delve into exciting the details|
 |V|||***B. Visualising/Documenting*** <br><br>***B.1.*** Documentation → Turn ideas, process, designed objects into media worth sharing. <br><br>***B.2.*** Script Writing → Come prepared, Know what you have to say when you have to say it, Rehearse!|
 |VI|22/11|Presentation|***Bring it on!***|
+|VI|22/11|Partner Call|16:00-16:30 on Teams, ***Final Presentation***|
 
 
 ---
