@@ -10,7 +10,7 @@ custom_head: head-default.html
 </section>
 <section data-state=header0>
     <img src="assets/images/amberEmber.png" />
-    <h2>A STELLAR ATLAS</h2>
+    <h3>A STELLAR ATLAS</h3>
 </section>
 <section data-background-color="#05014a" data-state=header1>
     <style>.header1 header:after { content: "Carl Sagan — Cosmos: The Shores of the Cosmic Ocean, 1980"; }</style>
