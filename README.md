@@ -105,7 +105,7 @@ Delve into the world of contemporary cartography and mapping within modern conte
 - Examine the potential for “Speculative Xenology” as an emerging bridge between astrobiology, speculative fiction, and anthropology.
 - Establish a robust documentation and archival resource of narratives that can serve as a foundation for further development and iteration.
 
-## FURTHER INFORMATION ABOUT K5V STARS
+## FURTHER INFORMATION ABOUT THIS K5V STAR
 
 ### Habitability
 
