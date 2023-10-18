@@ -154,7 +154,7 @@ Our mission is resolute: as we embark on narratives that orbit the radiant hosts
 
 Each week is punctuated by a Review/Presentation. They provide valuable feedback and guidance on your ongoing work. It's essential to come prepared for these meetings to ensure productive use of time. Following each meeting, we set weekly objectives categorised as A's and B's, as outlined in the table below.
 
-- **A's** tend involve reflective tasks, where you'll analyse your progress, make sense of feedback received, and strategise how to move forward effectively.
+- **A's** tend to involve reflective tasks, where you'll analyse your progress, make sense of feedback received, and strategise how to move forward effectively.
 - **B's** tend to focus on specific deliverables required for the upcoming review or meeting. These tasks are designed to keep our workflow efficient and goal-oriented.
 
 You can do more than what is suggested in the **A’s** and **B’s**, but no less, and should aim to meet at least those minimum expectations.
