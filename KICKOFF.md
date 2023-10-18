@@ -55,7 +55,7 @@ We are a way for the cosmos to know itself.”
 </section>
 
 <section data-state=header3>
-    <style>.header3 header:after { content: "Goddard Space Flight Center/NASA, US Geological Survey"; }</style>
+    <style>.header3 header:after { content: "Goddard Space Flight Center (GSFC)/NASA, US Geological Survey"; }</style>
     <img src="assets/images/todayMoon.jpg" />
 </section>
 
@@ -94,6 +94,33 @@ We are a way for the cosmos to know itself.”
     <img src="assets/images/whexplodes.gif" />
     <aside class="notes">
         fermi paradox, if they advanced they would go visit others, and they'd follow some extractive practice. In a way projecting our capitalist fears.
+    </aside>
+</section>
+<section data-state=parker data-background-color="black" data-background-image="assets/images/sun.gif">
+<style>.parker header:after { content: "Parker Solar Probe, NASA, 2021"; }</style>
+    <!-- <img src="assets/images/whexplodes.gif" /> -->
+    <h3>Chapter I</h3>
+    <h1>Observing the Amber Ember</h1>
+    <aside class="notes">
+        Aparatus
+    </aside>
+</section>
+<section data-state=flare data-background-color="black" data-background-image="assets/images/sun_2.gif">
+<style>.flare header:after { content: "GSFC/NASA, 2017"; }</style>
+    <!-- <img src="assets/images/whexplodes.gif" /> -->
+    <h3>Chapter II</h3>
+    <h1>A Cosmic Conductor</h1>
+    <aside class="notes">
+        Solar weather
+    </aside>
+</section>
+<section data-state=flare data-background-color="black" data-background-image="assets/images/flight404.jpg">
+<style>.flare header:after { content: "GSFC/NASA, 2017"; }</style>
+    <!-- <img src="assets/images/whexplodes.gif" /> -->
+    <h3>Chapter III</h3>
+    <h1>Mythologies & Histories</h1>
+    <aside class="notes">
+        histories
     </aside>
 </section>
 <section data-state=mission>
