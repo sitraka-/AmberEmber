@@ -136,9 +136,15 @@ We are a way for the cosmos to know itself.”
 <style>.OUTPUT header:after { content: "OUTPUT"; }</style>
     <p style="text-align:left;width: 70%;margin: 0 auto;">OUTPUTS:</p>
     <p class="fragment"><span style="color:#ff6600;">✓</span> A cohesive and exhaustive series of articles, charts, diagrams, and illustrations, thoughtfully organised around thematic subjects, allowing for intellectual exploration of the Amber Ember as an environment, delving into its infrastructure and associated imaginaries.</p>
-    <p class="fragment"><span style="color:#ff6600;">✓</span> A well-defined strategy and approach for organising the content and executing the design of the atlas.
-</p>
+    <p class="fragment"><span style="color:#ff6600;">✓</span> A well-defined strategy and approach for organising the content and executing the design of the atlas.</p>
+    <p class="fragment"><span style="color:#ff6600;">✓</span> Assets designed for this atlas should be crafted and executed with the flexibility to seamlessly integrate into an online publication.</p>
 </section>
-<section data-state=header4>
-    Some output examples in 3D and stuff
+<section data-state=header0 data-background-color="black" data-background-image="assets/images/al.gif">
+<!-- <style>.flare header:after { content: "GSFC/NASA, 2017"; }</style> -->
+    <!-- <img src="assets/images/whexplodes.gif" /> -->
+    <h3>https://sitraka-.github.io/AmberEmber/</h3>
+    <h3>https://sitraka-.github.io/AmberEmber/KICKOFF.html</h3>
+    <aside class="notes">
+        histories
+    </aside>
 </section>
