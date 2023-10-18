@@ -15,7 +15,7 @@ Carl Sagan — [Cosmos: A Personal Voyage, The Shores of the Cosmic Ocean, 1980]
 
 _(Text partly styled by ChatGPT channelling its inner Carl Sagan)_
 
-In the grand cosmic symphony, we find ourselves captivated by the Amber Ember, the luminous guiding star of an exceptional celestial family — a system graced with a total of nine celestial companions. Among these, seven planets and a solitary moon host life's vibrant dance, while two enigmatic worlds remain untouched, bearing the secrets of the cosmos.
+In the grand cosmic symphony, fascination arises with the Amber Ember, the luminous guiding star of an exceptional celestial family — a system graced with a total of nine celestial companions. Among these, seven planets and a solitary moon host life's vibrant dance, while two enigmatic worlds remain untouched, bearing the secrets of the cosmos.
 
 Much like its celestial cousin, 61 Cygni A, the Amber Ember belongs to the K5V family, a classification that unveils its celestial quirks and echoes of familiarity with our Sun, the illustrious G2V star. In the lexicon of stars, "K5" marks the Amber Ember as cooler, dimmer, and more modest in size than our Sun. But the "V" appended to its stellar identity signifies its residence on the Main Sequence of its evolutionary stage, mirroring our Sun's steady, enduring dance of stellar existence.
 
@@ -23,11 +23,11 @@ With an astonishing lifespan of around 30 billion years — three times the Sun'
 
 This atlas serves as our interstellar guide, inviting us to embark on an expedition through the celestial tapestry of the Amber Ember, where science and wonder converge to unfurl the cosmic narrative of a star and its influence on its enthralling planetary companions.
 
-This project is a collaborative effort with the Berggruen Institute's "Future Humans" group, under the leadership of Claire Isabel Webb, within the framework of _Life, Otherwise_. 
+This project is a collaborative effort with the Berggruen Institute's "Future Humans" group, under the leadership of Claire Isabel Webb, within the framework of _Life, Otherwise_. The Berggruen Institute is a think tank with bases in Los Angeles, Venice, and Beijing that is developing ideas for a changing world. 
 
-_Life Otherwise_ is an experimental initiative that delves into the assumptions surrounding the concept of life in an astrobiological context. It involves the collaboration of scientists and philosophers, jointly engaged in modelling an exosolar system, exploring speculative histories, hypothetical life forms, and cosmological events. 
+_Life, Otherwise_ is an experimental project that delves into the assumptions surrounding the concept of life in an astrobiological context. It involves the collaboration of scientists and philosophers, jointly engaged in modelling an exosolar system, exploring speculative histories, hypothetical life forms, and cosmological events. Each scientist and design team is imagining a different planet. Our goal is to understand the star around which those planets rotate and the stories that might inform our understanding of this star through modelling, analyses, and the aparati of observation. 
 
-While various teams and partners are dedicated to investigating each planet within the system, our specific contribution revolves around the development of this stellar atlas. The ultimate goal of this project is to blur the boundaries that conventionally separate planetary science and astrobiology.
+While various teams and partners are dedicated to investigating each planet within the system, our specific contribution revolves around the development of this star through the stellar atlas. The ultimate goal of this project is to blur the boundaries that conventionally separate planetary science and astrobiology. In this way our mission is literally central to understanding the whole system that is being modelled, designed, and explored.
 
 ## MISSION
 
@@ -80,7 +80,17 @@ In this realm of storytelling and cultural significance, we cast our gaze upon t
 - A well-defined strategy and approach for organising the content and executing the design of the atlas.
 - Assets designed for this atlas should be crafted and executed with the flexibility to seamlessly integrate into an online publication.
 
-While we do not require full completion, we seek more than just a prototype; we aim for a finely crafted narrative system that captivates our imagination.
+While we do not require full completion, we seek more than just a prototype; we aim for a finely crafted narrative system that captivates people's imagination.
+
+## AUDIENCE
+
+Our audience encompasses a diverse spectrum of individuals. While certain aspects can be viewed from the perspective of public engagement and outreach, this project also aims to engage researchers both within and outside the Berggruen Institute, including the participating scientists and researchers, along with the broader community of astrobiologists and planetary researchers that Life Otherwise seeks to involve in conversations. 
+
+The field of science, particularly when exploring and defining life beyond our planet, is not monolithic; rather, it is filled with subjectivities, influenced and moulded by beliefs and worldviews.
+
+Your aim is to engage in the exploration of fresh conceptual frameworks pertaining to the imagination, anticipation and perception of extraterrestrial worlds.
+
+In doing so, the goal is to promote a more holistic examination of the mechanisms that facilitate the emergence of life. Instead of adhering to the confines of individual planets and isolated potential biosignatures, we might contemplate exosolar systems as a collective, intergalactic ecosystem essential for nurturing life. This approach could even lead, potentially, to a reevaluation of our understanding of life itself.
 
 ## METHODS
 

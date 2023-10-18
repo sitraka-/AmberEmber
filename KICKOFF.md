@@ -143,7 +143,6 @@ We are a way for the cosmos to know itself.”
 <!-- <style>.flare header:after { content: "GSFC/NASA, 2017"; }</style> -->
     <!-- <img src="assets/images/whexplodes.gif" /> -->
     <h4 style="text-transform:none;">https://sitraka-.github.io/AmberEmber/</h4>
-    <h4 style="text-transform:none;">https://sitraka-.github.io/AmberEmber/KICKOFF.html</h4>
     <aside class="notes">
         histories
     </aside>
