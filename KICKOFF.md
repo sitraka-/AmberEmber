@@ -26,7 +26,7 @@ We are a way for the cosmos to know itself.”
     </aside>
 </section>
 <section data-state=header0>
-    <h1>Future Humans<br>—<br><span style="font-style:italic; text-transform:lowercase;">Life Otherwise</span></h1>
+    <h1>Future Humans<br>—<br><span style="font-style:italic; text-transform:lowercase;">Life, Otherwise</span></h1>
     <aside class="notes">
         Exploring uncharted narratives, Challenging the way we look at things and the way we understand them. 📝
     </aside>
